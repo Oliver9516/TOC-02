@@ -1,0 +1,7 @@
+{
+  "name": "toc02",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
